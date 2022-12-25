@@ -11,3 +11,4 @@ Libraries you need to download:
 
 :bangbang:make sure the versions are the same otherwise you will get an error:bangbang:
 
+![image](https://github.com/Er00t/Voice-translator/blob/main/Translator.png)
